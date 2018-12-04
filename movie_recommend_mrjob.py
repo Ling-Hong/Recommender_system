@@ -3,9 +3,7 @@ Created on 2018-11-30 17:21:27
 @author: Lynn.H
 @description: 
 @reference:
-
 http://aimotion.blogspot.com/2012/08/introduction-to-recommendations-with.html
-
 https://datastat.io/posts/2017/Jan/15/Movie-Recommendations-Part-1/
 
 """
